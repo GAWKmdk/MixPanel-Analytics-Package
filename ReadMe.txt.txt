@@ -1,5 +1,6 @@
 A collection of snippets to get start using Mixpanel Analytics to manage User Behavior patterns.
 
+https://juststartworking.com/meteor-and-seo-the-right-way/
 https://mixpanel.com/
 
 Meteor add okgrow:analytics package
